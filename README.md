@@ -228,4 +228,5 @@ Feedstock Maintainers
 =====================
 
 * [@baszalmstra](https://github.com/baszalmstra/)
+* [@pavelzw](https://github.com/pavelzw/)
 
